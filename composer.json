@@ -1,0 +1,14 @@
+{
+    "name": "aliyunlog/aliyun-log-php-sdk",
+    "type": "library",
+    "license": "MIT",
+    "version": "v0.6.1",
+    "authors": [
+        {
+            "name": "luomanqiang",
+            "email": "manqiang.luo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
