@@ -1,8 +1,7 @@
 {
-    "name": "aliyunlog/aliyun-log-php-sdk",
+    "name": "sj-distributor/aliyun-log-php-sdk",
     "type": "library",
     "license": "MIT",
-    "version": "v0.6.1",
     "authors": [
         {
             "name": "luomanqiang",
