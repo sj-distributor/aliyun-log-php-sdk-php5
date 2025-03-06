@@ -3,7 +3,6 @@
  * Copyright (C) Alibaba Cloud Computing
  * All rights reserved
  */
-date_default_timezone_set ( 'Asia/Shanghai' );
 
 require_once realpath ( dirname ( __FILE__ ) . '/../../Log_Autoload.php' );
 require_once realpath ( dirname ( __FILE__ ) . '/requestcore.class.php' );
